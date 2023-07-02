@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, me chamo Adrieli</h1>
 
 <h3>Iniciei minha jornada no mundo da programação em dezembro de 2022.<h3>
-:mortar_board: <h3>Atualmente estou cursando Sistemas de Informação na UNIMATER<h3>
+ <h3> :mortar_board: Atualmente estou cursando Sistemas de Informação na UNIMATER<h3>
 
 <h3 align="center">Atualmente sou desenvolvedora júnior Full-Stack</h3>
 
