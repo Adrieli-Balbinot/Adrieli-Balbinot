@@ -2,7 +2,8 @@
 <h2 align="center"> Desenvolvedora júnior Full-Stack</h2>
 
 <h3>Iniciei minha jornada no mundo da programação em dezembro de 2022.<h3>
-<h3> :mortar_board: Atualmente estou cursando Sistemas de Informação na UNIMATER<h3>
+
+- :mortar_board: Atualmente estou cursando Sistemas de Informação na UNIMATER
 
 - 🔭 Trabalho na empresa Supera Sistemas
 
