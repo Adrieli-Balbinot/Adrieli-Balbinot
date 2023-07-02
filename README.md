@@ -1,11 +1,11 @@
-<h1 align="center">Olá 👋 me chamo Adrieli</h1>
+<h1 align="center">Olá 👋, me chamo Adrieli</h1>
 <h3 align="center">Atualmente sou desenvolvedora júnior Full-Stack</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Adrieli-Balbinot" alt="Adrieli-Balbinot"/></a> </p>
 
-- 🔭 Atualmente trabalho na empresa Supera Sistemas
+- 🔭 Trabalho na empresa Supera Sistemas
 
-- 📫 How to reach me **adrielibalninot1@gmail.com**
+- 📫 Contato: **adrielibalninot1@gmail.com**
 
 <h3 align="left">Conecte-se comigo: </h3>
 <p align="left">
