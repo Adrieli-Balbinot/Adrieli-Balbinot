@@ -1,9 +1,8 @@
 <h1 align="center">Olá 👋, me chamo Adrieli</h1>
+<h3 align="center"> Desenvolvedora júnior Full-Stack</h3>
 
 <h3>Iniciei minha jornada no mundo da programação em dezembro de 2022.<h3>
- <h3> :mortar_board: Atualmente estou cursando Sistemas de Informação na UNIMATER<h3>
-
-<h3 align="center">Atualmente sou desenvolvedora júnior Full-Stack</h3>
+<h3> :mortar_board: Atualmente estou cursando Sistemas de Informação na UNIMATER<h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Adrieli-Balbinot" alt="Adrieli-Balbinot"/></a> </p>
 
