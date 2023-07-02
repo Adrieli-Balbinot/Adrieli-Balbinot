@@ -9,7 +9,7 @@
 
 - 📫 Contato: **adrielibalninot1@gmail.com**
 
-## :raising_hand_woman: Conecte-se comigo:
+## :handshake: Conecte-se comigo:
 <p align="left">
 <a href="https://www.linkedin.com/in/adrieli-balbinot/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adrieli" height="30" width="40" /></a>
 </p>
