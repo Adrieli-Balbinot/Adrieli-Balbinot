@@ -3,15 +3,18 @@
 
 <h3>Iniciei minha jornada no mundo da programação em dezembro de 2022.<h3>
 
-- :mortar_board: Atualmente estou cursando Sistemas de Informação na UNIMATER
+- :mortar_board: Atualmente estou cursando Sistemas de Informação na UNIMATER.
 
-- 🔭 Trabalho na empresa Supera Sistemas
+- 🔭 Trabalho na empresa Supera Sistemas.
 
 - 📫 Contato: **adrielibalninot1@gmail.com**
 
 <h3 align="left">Conecte-se comigo: </h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/adrieli-balbinot/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="álvaro-andré-fatini" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/adrieli-balbinot/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adrieli" height="30" width="40" /></a>
+</p>
+<p align="left">
+<a href="adrielibalbinot1@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adrieli" height="30" width="40" /></a>
 </p>
 
 ## 💻 IDE
