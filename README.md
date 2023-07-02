@@ -27,7 +27,3 @@
 ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fatini-alvaro&" alt="fatini-alvaro" /></p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=85b68d93-ecd4-4158-a2b2-aa1b61653d4b&show_icons=true&theme=radical&layout=compact" alt="Github wakatime status" />
