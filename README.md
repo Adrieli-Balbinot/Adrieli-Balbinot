@@ -1,4 +1,8 @@
 <h1 align="center">Olá 👋, me chamo Adrieli</h1>
+
+<h3>Iniciei minha jornada no mundo da programação em dezembro de 2022.<h3>
+:mortar_board: <h3>Atualmente estou cursando Sistemas de Informação na UNIMATER<h3>
+
 <h3 align="center">Atualmente sou desenvolvedora júnior Full-Stack</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Adrieli-Balbinot" alt="Adrieli-Balbinot"/></a> </p>
@@ -11,7 +15,6 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/adrieli-balbinot/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="álvaro-andré-fatini" height="30" width="40" /></a>
 </p>
-
 
 ## 💻 IDE
 ![eclipse](https://img.shields.io/badge/Eclipse_RAD_Studio-B22222?style=for-the-badge&logo=eclipse&logoColor=white)
