@@ -13,9 +13,6 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/adrieli-balbinot/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adrieli" height="30" width="40" /></a>
 </p>
-<p align="left">
-<a href="adrielibalbinot1@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adrieli" height="30" width="40" /></a>
-</p>
 
 ## 💻 IDE
 ![eclipse](https://img.shields.io/badge/Eclipse_RAD_Studio-B22222?style=for-the-badge&logo=eclipse&logoColor=white)
