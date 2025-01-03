@@ -11,21 +11,6 @@
 
 ---
 
-## 🌐 Conexões e Contato:
-<p align="center">
-  <a href="https://www.linkedin.com/in/adrieli-balbinot/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:adrielibalninot1@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
-  </a>
-</p>
-
-
-
-
----
-
 ## 💻 IDEs
 <p align="center">
 <img src="https://img.shields.io/badge/Eclipse_RAD_Studio-B22222?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse">
@@ -67,6 +52,16 @@
 | 📅 **Maio 2023**    | Entrei na empresa Supera Sistemas para o cargo de desenvolvedora.|
 | 📅 **Atualmente**   | Atuando como desenvolvedora web.                    |
 
+---
 
+## 🌐 Conexões e Contato:
+<p align="center">
+  <a href="https://www.linkedin.com/in/adrieli-balbinot/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:adrielibalninot1@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
+  </a>
+</p>
 
 
