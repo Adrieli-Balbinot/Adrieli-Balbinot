@@ -6,7 +6,7 @@
 
 <h3 align="center">Iniciei minha jornada no mundo da programação em dezembro de 2022.</h3>
 
-- 🎓Atualmente, estou cursando o 5º período do curso de Sistemas de Informação na UNIMATER.  
+- 🎓Atualmente, estou cursando o 6º período do curso de Sistemas de Informação na UNIMATER.  
 - 🔭 Trabalho como desenvolvedora full-stack na empresa Supera Sistemas.  
 
 ---
